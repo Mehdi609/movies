@@ -9,7 +9,7 @@ import MovieCard from "./MoiveCard";
 
 
 
-const API_URL = 'http://www.omdbapi.com?apikey=dbcc439e'
+const API_URL = 'https://www.omdbapi.com?apikey=dbcc439e'
 
 const App = () => {
 
